@@ -1,2 +1,4 @@
 .venv
 .idea
+job_application/__pycache__/
+mysite/__pycache__/
